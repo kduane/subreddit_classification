@@ -1,0 +1,9 @@
+,Train,Test,Variance
+Count Vectorized Logistic Regression,0.94,0.89,0.04999999999999993
+TF-IDF Logistic Regression,0.95,0.89,0.05999999999999994
+Count Vectorized K-Nearest Neighbors,0.99,0.72,0.27
+TF-IDF Vectorized K-Nearest Neighbors,0.99,0.58,0.41000000000000003
+Count Vectorized Multinomial Naive Bayes,0.91,0.87,0.040000000000000036
+TF-IDF Vectorized Multinomial Naive Bayes,0.91,0.87,0.040000000000000036
+Count Vectorized Random Forest,0.91,0.88,0.030000000000000027
+TF-IDF Vectorized Random Forest,0.92,0.87,0.050000000000000044
