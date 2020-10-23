@@ -1,4 +1,4 @@
-##Project Outline
+## Project Outline
 
 ### Phase 1 - Problem Definition
     1.1 Goal is two-fold:
